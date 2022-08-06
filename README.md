@@ -1,5 +1,9 @@
 # Privacy Policy
-This page is created to provide a Privacy Policy as requested by Google Play application publishing conditions.
-As such, game "Tamara and The Book of Bugs" not designed to collect or request user's personal information of any kind.
+This page is created to provide a Privacy Policy as requested by Google Play publishing policies.
+As such, game "Tamara and The Book of Bugs" include APIs that might collect your data (such as device data, app data, ad data and user data) and provide it to other companies.
 
-This application uses Google Admob to implement in-app ads. For Admob Privacy Policy please visit: https://support.google.com/admob/answer/6128543?hl=en
+Please read corresponding Privacy Policies for more information.
+
+This game was developed using Unity game engine, and uses Unity IAP plugin to implement in-app purchases. For Unity Privacy Policy, please visit: https://unity.com/ru/legal/privacy-policy
+
+This game uses Google Admob to implement in-app ads. For Google Admob Privacy Policy, please visit: https://support.google.com/admob/answer/6128543?hl=en
