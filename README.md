@@ -6,4 +6,4 @@ Please read corresponding Privacy Policies for more information.
 
 This game was developed using Unity game engine, and uses Unity IAP plugin to implement in-app purchases. For Unity Privacy Policy, please visit: https://unity.com/ru/legal/privacy-policy
 
-This game uses Google Admob to implement in-app ads. For Google Admob Privacy Policy, please visit: https://support.google.com/admob/answer/6128543?hl=en
+This game uses Appodeal plugin to implement in-app adds. For Appodeal Privacy Policy, please visit: https://appodeal.com/privacy-policy/
